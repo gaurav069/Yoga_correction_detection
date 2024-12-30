@@ -29,6 +29,7 @@ pip install tensorflow opencv-python numpy matplotlib pillow
 ## Dataset 📂
 
 This model requires a yoga pose dataset. The dataset should be in a folder structure with subdirectories for each class (yoga pose). The dataset must be extracted from a ZIP file, and the images inside must be organized by class for training.
+[Download Dataset]([https://www.tensorflow.org/](https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset?resource=download))
 
 ## Setup and Training ⚡
 
